@@ -173,4 +173,4 @@ parameters:
   #value: https://magdamartinez@dev.azure.com/magdamartinez/OpenShift%20Tasks%20Web%20-%20Delivery%20plans/_git/openshift-tasks
 - description: Git branch/tag reference
   name: SOURCE_REF
-  value: master
+  value: blue
